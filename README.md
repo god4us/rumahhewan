@@ -1,4 +1,4 @@
-# --Hackchat--
+# RumahHewan
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/jeksilaen/HackChat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jeksilaen/HackChat)
@@ -42,7 +42,7 @@ What is a chat application if you cant send messages!
 ### Clone the repo and make changes however you want!
 ```js
 //Run the git clone command'=
-$ git clone 'https://github.com/jeksilaen/HackChat.git' //Remove the strings (')
+$ git clone 'https://github.com/rifkyfrds/rumahhewan.git' //Remove the strings (')
 
 //Dont forget to run 'npm install or npm i' to install all the dependencies
 $ npm install
