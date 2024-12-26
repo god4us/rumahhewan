@@ -1,9 +1,5 @@
 # RumahHewan
 
-![GitHub last commit](https://img.shields.io/github/last-commit/jeksilaen/HackChat)
-![GitHub repo size](https://img.shields.io/github/repo-size/jeksilaen/HackChat)
-![GitHub followers](https://img.shields.io/github/followers/jeksilaen?style=social)
-
 ## Description :bookmark_tabs:
 
 ### **Real-time web-based chat application built with Express.Js**
@@ -23,8 +19,9 @@
 
 ## Previews :computer: [VIEW THE DEPLOYED PROJECT HERE](https://web-production-25986.up.railway.app)
 
-![alt text](https://github.com/jeksilaen/HackChat/blob/main/docs-assets/home.png?raw=true)
-![alt text](https://github.com/jeksilaen/HackChat/blob/main/docs-assets/main.png?raw=true)
+![alt text](https://github.com/god4us/rumahhewan/blob/main/docs-assets/rumahhewan-home.png?raw=true)
+![alt text](https://github.com/god4us/rumahhewan/blob/main/docs-assets/rumahhewan-main.png?raw=true)
+![alt text](https://github.com/god4us/rumahhewan/blob/main/docs-assets/rumahhewan-admin_showroom.png?raw=true)
  
 ## Usage :wrench:
 
@@ -42,7 +39,7 @@ What is a chat application if you cant send messages!
 ### Clone the repo and make changes however you want!
 ```js
 //Run the git clone command'=
-$ git clone 'https://github.com/rifkyfrds/rumahhewan.git' //Remove the strings (')
+$ git clone 'https://github.com/god4us/rumahhewan.git' //Remove the strings (')
 
 //Dont forget to run 'npm install or npm i' to install all the dependencies
 $ npm install
