@@ -1,0 +1,26 @@
+{
+  "name": "chat-room-app",
+  "version": "1.0.0",
+  "description": "Real-time chat web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rifkyfrds",
+  "license": "ISC",
+  "engines": {
+    "node": "16.16.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.34",
+    "mongodb": "4.1",
+    "mongoose": "^6.5.2",
+    "socket.io": "^4.5.1"
+  }
+}
